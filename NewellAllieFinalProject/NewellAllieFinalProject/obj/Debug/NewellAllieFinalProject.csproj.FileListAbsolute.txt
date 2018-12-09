@@ -1,0 +1,12 @@
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\bin\Debug\Courses.mdf
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\bin\Debug\Courses_log.ldf
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\bin\Debug\NewellAllieFinalProject.exe.config
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\bin\Debug\NewellAllieFinalProject.exe
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\bin\Debug\NewellAllieFinalProject.pdb
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\obj\Debug\NewellAllieFinalProject.csprojAssemblyReference.cache
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\obj\Debug\NewellAllieFinalProject.Properties.Resources.resources
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\obj\Debug\NewellAllieFinalProject.csproj.GenerateResource.cache
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\obj\Debug\NewellAllieFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\obj\Debug\NewellAllieFinalProject.exe
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\obj\Debug\NewellAllieFinalProject.pdb
+C:\Users\Allie\Documents\ISMG 6020\Final Project\NewellAllieFinalProject\NewellAllieFinalProject\obj\Debug\NewellAllieFinalProject.frmCourses.resources
